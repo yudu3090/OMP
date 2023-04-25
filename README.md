@@ -11,13 +11,15 @@ aktuali.
 
 Rezultatai:
 • Atlikta pasirinktų optimaliausių maršrutų paieškos algoritmų analizė;
+
 • Pateikti galimų problemų sprendimo pavyzdžiai;
+
 • Sukurtos programėlės, kurios suteikia kiekvienam naudotojui galimybę sukurti
 grafą, užduoti ir konfiguruoti jo parametrus, pritaikyti algoritmus bei stebėti
 ir analizuoti gautus rezultatus.
 
 
-Finding optimal routes in graphs
+## Finding optimal routes in graphs
 
 Graphs are widely used in many areas of science and technology
 areas. They can represent a large number of processes, schemes and relationships, where
@@ -28,7 +30,9 @@ relevant.
 
 Results:
 • An analysis of the selected optimal route search algorithms was performed;
+
 • Examples of solutions to possible problems are given;
+
 • Created apps that give every user the ability to create
 graph, request and configure its parameters, apply algorithms and monitor
 and analyze the results obtained.
