@@ -1,0 +1,7 @@
+Norint paleisti ðá prototipà, uþtenka paspausti du kartus ant executable jar failo.
+Ten uþteks sekti kampe nurodytomis instrukcijomis, kadangi patys turësite nupieðti grafà 
+arba pasirinkti atsitiktiná,
+suþymëti pradþià, pabaigà, privalomas virðûnes ir paspausti SPACE rezultatui gauti.
+Rezultate turite gauti grafà, trumpiausio kelio ilgá, pati kelià ir kità informacijà.
+
+
