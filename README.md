@@ -1,6 +1,6 @@
 # OMP
 
-Optimalių maršrutų paieška grafuose
+## Optimalių maršrutų paieška grafuose
 
 Grafai yra plačiai naudojami daugelyje mokslo ir technologijų 
 sričių. Jais galima atvaizduoti labai daug procesų, schemų ir ryšių, kur 
