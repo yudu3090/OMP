@@ -10,6 +10,7 @@ ligoninei statyti, todėl optimalių maršrutų paieškos problema iki šiol lie
 aktuali.
 
 Rezultatai:
+
 • Atlikta pasirinktų optimaliausių maršrutų paieškos algoritmų analizė;
 
 • Pateikti galimų problemų sprendimo pavyzdžiai;
@@ -29,6 +30,7 @@ to build a hospital, so the problem of finding optimal routes still remains
 relevant.
 
 Results:
+
 • An analysis of the selected optimal route search algorithms was performed;
 
 • Examples of solutions to possible problems are given;
